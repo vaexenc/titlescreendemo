@@ -6,11 +6,7 @@ The title name is randomly chosen from a list of names.
 
 ## Video Demonstration
 
-[Video](https://youtube.com)
-
-## Executable
-
-[Windows](#a)
+https://www.youtube.com/watch?v=wLqAGJaF2JA
 
 ### Controls
 
